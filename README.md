@@ -27,7 +27,7 @@ Follow these steps to run the Currency Converter app locally:
 2. **Navigate to the project directory:**
 
     ```bash
-    cd currency-converter
+    cd CurrencyConverter
     ```
 
 3. **Deploy on Apache Tomcat:**
